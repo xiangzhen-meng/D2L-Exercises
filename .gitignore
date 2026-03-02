@@ -1,5 +1,4 @@
 /data/
-*.png
 *.jpg
 .DS_Store
 .vscode
